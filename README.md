@@ -1,4 +1,4 @@
-IoT-Smart-Trash-Bin
+<h1><b>IoT-Smart-Trash-Bin</b></h1>
 
 **The repository has two files.**
 1. One has Arduino code for automatically opening a dustbin using Arduino, an Infrared Sensor, and a Servo Motor (SG 90).
